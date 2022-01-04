@@ -91,6 +91,6 @@ function flipCard(card) {
   }
 }
 
-function unFlipCard(card) { // modified unFlipCard to say card.style.backgroundColor rather than card.target....
+function unFlipCard(card) {
   card.style.backgroundColor = "grey";
 }

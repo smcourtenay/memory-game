@@ -1,4 +1,7 @@
-/* you can add to or change this. */
+.max-width{
+  max-width:710px;
+  margin: auto;
+}
 
 #game div {
   border: 1px solid black;
